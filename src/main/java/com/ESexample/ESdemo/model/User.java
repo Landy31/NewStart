@@ -16,5 +16,5 @@ public class User {
     private String email;
     private String password;
 
-    // Геттеры и сеттеры fdsfsdf
+    // Геттеры и сеттеры fdsfsdfffsd
 }
